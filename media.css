@@ -1,0 +1,40 @@
+
+@media (max-width:500px) {
+    
+    *{
+        overflow-x: hidden;
+    }
+
+    /* Nav Bar */
+
+    .navbar-main-div{
+        height: 60px;
+    }
+
+    .logo-div{
+        display: none;
+    }
+    .location-main-div{
+        width: 70%;
+    }
+    .search-main-div{
+        display: none;
+    }
+    .categories-main-div{
+        display: none;
+    }
+    .login-main-div{
+        display: none;
+    }
+    .cart-main-div{
+        display: none;
+    }
+
+
+    /* ---___Main Sticker___--- */
+
+    .main-sticker-parent-div{
+        background-color: aqua;
+
+    }
+}
